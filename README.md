@@ -3,7 +3,7 @@
 
 study log
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehyeonkim2358)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehyeonkim2358)](https://velog.io/@jaehyeonkim2358)
 
 
 ![Jaehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeonkim2358&show_icons=true&theme=tokyonight)
