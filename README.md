@@ -1,12 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:D2B48C,60:D2B48C,80:D2B48C,100:FFFFFF&text=welcome&fontColor=FFFFFF)
 
 
-study log
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:D2B48C,60:D2B48C,80:D2B48C,100:FFFFFF&text=welcome&fontColor=FFFFFF)
+  
+  ![Jaehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeonkim2358&show_icons=true&theme=tokyonight)
+  
+  study log
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehyeonkim2358)](https://velog.io/@jaehyeonkim2358)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehyeonkim2358)](https://velog.io/@jaehyeonkim2358)
 
 
-![Jaehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeonkim2358&show_icons=true&theme=tokyonight)
+</div>
+
+
+
+
 
 <!--
 깃헙 헤더 꾸미기 : https://github.com/kyechan99/capsule-render#types
