@@ -1,20 +1,22 @@
 
 
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:D2B48C,60:D2B48C,80:D2B48C,100:FFFFFF&text=welcome&fontColor=FFFFFF)
-  
+<div align="center"> 
+
   ![Jaehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeonkim2358&show_icons=true&theme=tokyonight)
   
-  study log
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFFFFF,20:D2B48C,80:D2B48C,100:FFFFFF&fontColor=FFFFFF&height=3)
+  
+  #### 📚study log
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehyeonkim2358)](https://velog.io/@jaehyeonkim2358)
-
-
-
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFFFFF,20:D2B48C,80:D2B48C,100:FFFFFF&fontColor=FFFFFF&height=3)
+  
+  #### 🧬most recent project
+  
+  [<img width="1476" alt="image" src="https://user-images.githubusercontent.com/112854083/223114938-afe53dd0-c152-4443-905c-f127070abf5f.png">](https://github.com/jaehyeonkim2358/picpico-server)
+ 
 </div>
-
-
 
 
 
